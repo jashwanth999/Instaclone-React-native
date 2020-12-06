@@ -1,4 +1,27 @@
 # instaclone-react-native-firebase
+<h2>This is a mobile application for both ios and android developed using expo cli</h2>
+
+<h2> instagram dark mode </h2>
+<ul>
+ <li> Chating </li>
+  <li> post</li>
+ <li> stories</li>
+ <li> comments</li>
+ <li> Following</li>
+  <li> Profile</li>
+  <li> Authentication</li>
+ <li> Replies</li>
+and a lot
+ </ul>
+<br>
+<h3> Dependencies</h3>
+<br>
+<ul>
+ <li> expo-camera </li>
+  <li> react-navigation</li>
+ <li> firebase</li>
+  <li> Async storage</li>
+ </ul>
 <div style="display:flex;flexDirection:row;">
 <img src="https://user-images.githubusercontent.com/65611955/101287930-5cf79780-3819-11eb-8cc6-49f638519d71.png" width="200" height="400" style="margin:2;"/>
  <img src="https://user-images.githubusercontent.com/65611955/101288857-d3e35f00-381e-11eb-8dc1-fba1bd9d3dc3.gif" width="200" height="400" style="margin:2;"/>
