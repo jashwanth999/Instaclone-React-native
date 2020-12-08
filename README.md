@@ -1,4 +1,5 @@
 # instaclone-react-native-firebase
+
 <h2>This is a mobile application for both ios and android developed using expo cli</h2>
 
 <h2> instagram dark mode </h2>
@@ -26,6 +27,7 @@ and a lot
 <img src="https://user-images.githubusercontent.com/65611955/101473399-cbe70480-396f-11eb-8fcf-ac2bfb12e706.gif" width="200" height="400" style="margin:2;"/>
 <img src="https://user-images.githubusercontent.com/65611955/101473440-d6090300-396f-11eb-916f-20ce0517f78e.gif" width="200" height="400" style="margin:2;"/>
 <img src="https://user-images.githubusercontent.com/65611955/101473448-da352080-396f-11eb-858c-0d456e8df486.gif" width="200" height="400" style="margin:2;"/>
+<img src="https://user-images.githubusercontent.com/65611955/101473975-7eb76280-3970-11eb-9a9f-6377c7d4c280.gif" width="200" height="400" style="margin:2;"/>
 
 
 
