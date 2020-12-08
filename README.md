@@ -22,7 +22,8 @@ and a lot
  <li> firebase</li>
   <li> Async storage</li>
  </ul>
-<div style="display:flex;flexDirection:row;">
+<div style="display:flex;flexDirection:row;" " width="200" height="400" style="margin:2;"/>
+
 <img src="https://user-images.githubusercontent.com/65611955/101287930-5cf79780-3819-11eb-8cc6-49f638519d71.png" width="200" height="400" style="margin:2;"/>
  <img src="https://user-images.githubusercontent.com/65611955/101288857-d3e35f00-381e-11eb-8dc1-fba1bd9d3dc3.gif" width="200" height="400" style="margin:2;"/>
 <img src="https://user-images.githubusercontent.com/65611955/101289035-da260b00-381f-11eb-8ab3-ce7eeb755d2b.gif" width="200" height="400" style="margin:2;"/>
