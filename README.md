@@ -23,6 +23,11 @@ and a lot
   <li> Async storage</li>
  </ul>
 <div style="display:flex;flexDirection:row;" " width="200" height="400" style="margin:2;"/>
+<img src="https://user-images.githubusercontent.com/65611955/101473399-cbe70480-396f-11eb-8fcf-ac2bfb12e706.gif" width="200" height="400" style="margin:2;"/>
+<img src="https://user-images.githubusercontent.com/65611955/101473440-d6090300-396f-11eb-916f-20ce0517f78e.gif" width="200" height="400" style="margin:2;"/>
+<img src="https://user-images.githubusercontent.com/65611955/101473448-da352080-396f-11eb-858c-0d456e8df486.gif" width="200" height="400" style="margin:2;"/>
+
+
 
 <img src="https://user-images.githubusercontent.com/65611955/101287930-5cf79780-3819-11eb-8cc6-49f638519d71.png" width="200" height="400" style="margin:2;"/>
  <img src="https://user-images.githubusercontent.com/65611955/101288857-d3e35f00-381e-11eb-8dc1-fba1bd9d3dc3.gif" width="200" height="400" style="margin:2;"/>
