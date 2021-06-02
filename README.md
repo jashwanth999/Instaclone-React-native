@@ -1,6 +1,6 @@
 # instaclone-react-native-firebase
 
-<h2>This is a mobile application for both ios and android developed using expo cli</h2>
+<h2>This is a mobile application for both ios and android developed using React Native</h2>
 
 <h2> instagram dark mode </h2>
 <ul>
